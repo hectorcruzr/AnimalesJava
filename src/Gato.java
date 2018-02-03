@@ -5,7 +5,6 @@ public class Gato extends AnimalDomestico {
     }
 
     public void saludar() {
-
         System.out.println("miaaauuu");
     }
 
